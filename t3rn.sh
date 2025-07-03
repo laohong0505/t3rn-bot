@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash（全自动安装）
 
 # 检查是否为 root 用户
 if [ "$EUID" -ne 0 ]; then
